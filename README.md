@@ -27,7 +27,7 @@ A mobile application developed with **Flutter** for managing product inventory, 
 
 ## 📸 Screenshots
 
-*(Place your screenshots here, e.g., ![Home Screen](ex_pic/1000021050.jpg))*
+* ![Home Screen](ex_pic/Untitled%20design%20(3).png))*
 
 ## 📂 Project Structure
 
