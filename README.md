@@ -39,15 +39,9 @@ A mobile application developed with **Flutter** for managing product inventory, 
 
 ## 📦 Installation
 
-1.  Clone the repository:
-    ```bash
-    git clone [https://github.com/yourusername/product-inventory.git](https://github.com/yourusername/product-inventory.git)
-    ```
-2.  Install dependencies:
-    ```bash
-    flutter pub get
-    ```
-3.  Run the app:
-    ```bash
-    flutter run
-    ```
+To install the application on your Android device:
+
+1.  Download the **`shopdata_v2.apk`** file from this repository.
+2.  Open the file on your Android device.
+3.  If prompted, go to **Settings** and enable **"Install from unknown sources"**.
+4.  Tap **Install** to complete the setup.
