@@ -1,6 +1,6 @@
-# Product Inventory Management System 📱
+# Product Cost Tracker 📱
 
-A mobile application developed with **Flutter** for managing product inventory, tracking price history, and calculating unit costs. This app utilizes local storage (SQLite) for offline data persistence and supports database backup/restore.
+A mobile application developed with **Flutter** for product price, tracking price history, and calculating unit costs. This app utilizes local storage (SQLite) for offline data persistence and supports database backup/restore.
 
 ## 🚀 Features
 
